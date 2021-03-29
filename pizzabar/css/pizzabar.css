@@ -1,0 +1,26 @@
+body{
+    background-color: #bee5eb;
+    font-family: "Comic Sans MS",cursive,sans-serif;
+}
+.container{
+    background-color: #80bdff;
+    width: 80%;
+    margin: 0px auto;
+}
+header{
+    height: 100px;
+    
+}
+#logo{
+    float:  left;
+    margin-right: 40px;
+}
+footer{
+    text-align: center;
+}
+.PizzaKep{
+    max-width: 120px;
+    width: auto;
+    max-height: 80px;
+    height: auto;
+}
